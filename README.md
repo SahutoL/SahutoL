@@ -10,6 +10,6 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=SahutoL&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/SahutoL">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahutoL&layout=compact&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahutoL&layout=donut&theme=dracula" />
 </a>
 </p>
