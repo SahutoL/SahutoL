@@ -19,12 +19,12 @@
 ## Stats / Graph
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SahutoL&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahutoL&layout=compact&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahutoL&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="SahutoL の GitHub 活動統計" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahutoL&layout=compact&hide_border=true" alt="SahutoL の主要使用言語" height="160" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=SahutoL&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=SahutoL&hide_border=true" alt="SahutoL の GitHub 継続活動統計" />
 </p>
 
 <picture>
