@@ -19,15 +19,15 @@
 ## Stats / Graph
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SahutoL&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="SahutoL の GitHub 活動統計" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahutoL&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="SahutoL の GitHub 統計（コミット、スター、プルリクエストなど）" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahutoL&layout=compact&hide_border=true" alt="SahutoL の主要使用言語" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahutoL&layout=compact&hide_border=true" alt="SahutoL のリポジトリで使われている主要言語の割合グラフ" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=SahutoL&hide_border=true" alt="SahutoL の GitHub 継続活動統計" />
+  <img src="https://streak-stats.demolab.com?user=SahutoL&hide_border=true" alt="SahutoL の連続コントリビューション日数と最長記録の統計" />
 </p>
 
 <picture>
