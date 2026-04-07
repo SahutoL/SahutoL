@@ -1,43 +1,34 @@
+# SahutoL
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SahutoL&style=flat&color=bd93f9)](https://github.com/SahutoL/SahutoL)
-[![Followers](https://img.shields.io/github/followers/SahutoL?label=Followers&logo=github&style=flat&color=bd93f9)](https://github.com/SahutoL)
-[![GitHub](https://img.shields.io/badge/GitHub-SahutoL-282a36?style=flat&logo=github)](https://github.com/SahutoL)
+学生の個人開発者です。  
+現在は、Godot（GDScript）によるiOSゲーム開発と、SwiftによるiOSアプリ開発に注力しています。
 
-## About
+## 自己紹介
 
-- Focus: **iOS Application Development**
-- Interests: **UI/UX, DX, Scalable Architecture**
+- iOS向けのアプリとゲームを継続して開発しています
+- 実装だけでなく、設計・保守性・運用しやすさも重視しています
+- 技術の幅を保ちながら、モバイル開発を主軸に学習と開発を進めています
 
 ## Tech Stack
 
+- iOS App: Swift / SwiftUI / UIKit / Xcode
+- iOS Game: Godot / GDScript
+- Web・Backend（経験）: TypeScript / React / Next.js / Node.js / Python / Django / PostgreSQL
+- Tools: Git / GitHub Actions
+
+## Stats / Graph
+
 <p>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SahutoL&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahutoL&layout=compact&hide_border=true" alt="Top languages" height="160" />
 </p>
 
-## Activity
+<p>
+  <img src="https://streak-stats.demolab.com?user=SahutoL&hide_border=true" alt="GitHub streak stats" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahutoL/SahutoL/main/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahutoL/SahutoL/main/img/snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SahutoL/SahutoL/main/img/snake.svg">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/SahutoL/SahutoL/main/img/snake.svg">
 </picture>
