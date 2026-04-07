@@ -20,6 +20,9 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SahutoL&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="SahutoL の GitHub 活動統計" />
+</p>
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahutoL&layout=compact&hide_border=true" alt="SahutoL の主要使用言語" />
 </p>
 
